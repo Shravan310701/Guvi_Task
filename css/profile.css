@@ -1,0 +1,27 @@
+.profile {
+    background-color: #f2f2f2; 
+    margin-top: 2em; 
+    padding: 2em; 
+    border-radius: 0.5em; 
+    justify-content: flex-start; 
+    box-shadow: 2px 4px 8px 6px rgba(128, 128, 128, 0.5);
+}
+
+.profile p {
+    color: navy; 
+}
+
+.profile span {
+    color: darkgreen; 
+}
+
+.form-control {
+    border: 1px solid #ccc;
+    background-color: #f0f8ff; 
+    color: darkred; 
+}
+
+img {
+    width: 12em; 
+    border: 2px solid crimson; 
+}

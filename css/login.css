@@ -1,0 +1,24 @@
+* * {
+    margin: 0;
+    border: 0;
+}
+
+.container {
+    margin-top: 8em; 
+}
+
+.form {
+    background-color: lightcoral; 
+    padding: 2em; 
+    border-radius: 12px; 
+}
+
+.form h1 {
+    text-align: left; 
+    color: darkslategray;
+}
+
+#notification {
+    color: navy; 
+}
+
